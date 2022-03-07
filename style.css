@@ -1,0 +1,18 @@
+* {
+  overflow: hidden;
+  background-color: #000;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container > * {
+  color: #11d2fc;
+  font-size: 3.5rem;
+  letter-spacing: 1rem;
+}
